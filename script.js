@@ -1,8 +1,8 @@
 // Array of image URLs
 let images = [
-    "./images/image copy 2.png",
-    "./images/image copy.png",
-    "./images/image.png"
+    "images/image copy 2.png",
+    "images/image copy.png",
+    "images/image.png"
 ];
 
 // Get the image element
